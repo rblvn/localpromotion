@@ -6,10 +6,10 @@
                 <p id="breadcrumbs">
                         <span>
                                 <span>
-                                        <a href="..\index.php">Главная</a>
+                                        <a href="https://localpromotion.ru">Главная</a>
                                         •
                                         <span>
-                                                <a href="..\blog-ru\index.htm">Блог</a>
+                                                <a href="https://localpromotion.ru/blog/">Блог</a>
                                                 •
                                                 <span class="breadcrumb_last" aria-current="page">
                                                         <?php the_title(); ?>
@@ -85,20 +85,7 @@
                                         </div> -->
                                 <!-- </div> -->
                         </div>
-                        <div class="single-page__sharing">
-                                <div class="addtoany_shortcode">
-                                        <div class="a2a_kit a2a_kit_size_32 addtoany_list"
-                                                data-a2a-url="https://ideadigital.agency/ru/7-oshibok-ux-sovershaemyh-vsemi-dizajnerami/"
-                                                data-a2a-title="7 ошибок UX, невольно совершаемых всеми дизайнерами">
-                                                <a class="a2a_button_facebook"
-                                                        href="https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fideadigital.agency%2Fru%2F7-oshibok-ux-sovershaemyh-vsemi-dizajnerami%2F&linkname=7%20%D0%BE%D1%88%D0%B8%D0%B1%D0%BE%D0%BA%20UX%2C%20%D0%BD%D0%B5%D0%B2%D0%BE%D0%BB%D1%8C%D0%BD%D0%BE%20%D1%81%D0%BE%D0%B2%D0%B5%D1%80%D1%88%D0%B0%D0%B5%D0%BC%D1%8B%D1%85%20%D0%B2%D1%81%D0%B5%D0%BC%D0%B8%20%D0%B4%D0%B8%D0%B7%D0%B0%D0%B9%D0%BD%D0%B5%D1%80%D0%B0%D0%BC%D0%B8"
-                                                        title="Facebook" rel="nofollow noopener" target="_blank"></a>
-                                                <a class="a2a_button_telegram"
-                                                        href="https://www.addtoany.com/add_to/telegram?linkurl=https%3A%2F%2Fideadigital.agency%2Fru%2F7-oshibok-ux-sovershaemyh-vsemi-dizajnerami%2F&linkname=7%20%D0%BE%D1%88%D0%B8%D0%B1%D0%BE%D0%BA%20UX%2C%20%D0%BD%D0%B5%D0%B2%D0%BE%D0%BB%D1%8C%D0%BD%D0%BE%20%D1%81%D0%BE%D0%B2%D0%B5%D1%80%D1%88%D0%B0%D0%B5%D0%BC%D1%8B%D1%85%20%D0%B2%D1%81%D0%B5%D0%BC%D0%B8%20%D0%B4%D0%B8%D0%B7%D0%B0%D0%B9%D0%BD%D0%B5%D1%80%D0%B0%D0%BC%D0%B8"
-                                                        title="Telegram" rel="nofollow noopener" target="_blank"></a>
-                                        </div>
-                                </div>
-                        </div> 
+ 
                 </div>
         </div>
 </section>

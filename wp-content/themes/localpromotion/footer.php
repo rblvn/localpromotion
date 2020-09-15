@@ -6,107 +6,65 @@
                                                 <div class="contacts-footer">
                                                         <div class="contacts-item">
                                                                 <span>
-                                                                        Днепр, ул. Глинки 2
+                                                                       
                                                                 </span>
-                                                                <a href="tel:+38 (098) 560 65 65">+38 (098) 560 65 65</a>
+                                                                <a href="#"></a>
                                                         </div>
                                                         <div class="contacts-item">
                                                                 <span>
-                                                                        Киев, ул. Н. Пимоненка, 13, 6а
+                                                                        
                                                                 </span>
-                                                                <a href="tel:+38 (044) 333 88 35">+38 (044) 333 88 35</a>
+                                                                <a href="#"></a>
                                                         </div>
                                                 </div>
-                                                <div class="social-footer">
-                                                        <ul class="social-list">
-                                                                <li>
-																	<a title="WhatsApp" href="whatsapp://send?phone=+79218986399"><i class="fab fa-viber"></i></a>
-																</li>
-                                                                <li>
-																	<a title="Viber" href="viber://chat?number=+79218986399"><i class="fab fa-whatsapp-square"></i></a>
-																</li>
-                                                                <li>
-																	<a href="https://tttttt.me/localpromotion"><i class="fab fa-telegram-plane"></i></a>
-																</li>
-                                                        </ul>
-                                                        <a class="email-item" href="mailto:contact@ideadigital.agency">contact@ideadigital.agency</a>
-                                                </div>
                                         </div>
-                                        <div class="main-footer-middle">
+<!--                                         <div class="main-footer-middle">
                                                 <ul>
                                                         <li>
                                                                 <p>
-                                                                        Услуги в городах:
+                                                                        Работаем по всем городам России
                                                                 </p>
                                                         </li>
-                                                        <li>
-                                                                <a href="promo\seo-dnepr\index.htm">Днепр</a>
-                                                        </li>
-                                                        <li>
-                                                                <a href="promo\seo-lvov\index.htm">Львов</a>
-                                                        </li>
-                                                        <li>
-                                                                <a href="promo\seo-zaporozhe\index.htm">Запорожье</a>
-                                                        </li>
-                                                        <li>
-                                                                <a href="promo\seo-harkov\index.htm">Харьков</a>
-                                                        </li>
-                                                        <li>
-                                                                <a href="promo\seo-odessa\index.htm">Одесса</a>
-                                                        </li>
-                                                        <li>
-                                                                <a href="promo\seo-kiev\index.htm">Киев</a>
-                                                        </li>
-                                                        <li>
-                                                                <a href="promo\nastrojka-kontekstnoj-reklamy-v-dnepre\index.htm">Днепр - PPC</a>
-                                                        </li>
-                                                        <li>
-                                                                <a href="promo\nastrojka-kontekstnoj-reklamy-v-kieve\index.htm">Киев - PPC</a>
-                                                        </li>
-                                                        <li>
-                                                                <a href="promo\nastrojka-kontekstnoj-reklamy-v-odesse\index.htm">Одесса - PPC</a>
-                                                        </li>
-                                                        <li>
-                                                                <a href="promo\nastrojka-kontekstnoj-reklamy-v-harkove\index.htm">Харьков - PPC</a>
-                                                        </li>
                                                 </ul>
-                                        </div>
+                                        </div> -->
                                         <div class="main-footer-bottom">
                                                 <ul class="brands-list">
                                                         <li>
-                                                                <noscript>
-                                                                        <img src="..\wp-content\themes\idea-digital\images\new-pages\brand-3.jpg">
-                                                                </noscript>
-                                                                <img class="lazyload" src='data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20%20%22%3E%3C/svg%3E'
-                                                                data-src="https://ideadigital.agency/wp-content/themes/idea-digital/images/new-pages/brand-3.jpg">
+                                                                <img src="/wp-content\themes\localpromotion\images\new-pages\brand-3.jpg">
                                                         </li>
                                                         <li>
-
-                                                                        <img src="..\wp-content\themes\idea-digital\images\new-pages\brand-2.jpg">
-
+                                                                <img src="/wp-content\themes\localpromotion\images\new-pages\brand-2.jpg">
                                                         </li>
                                                         <li>
-                                                                        <img src="..\wp-content\themes\localpromotion\images\new-pages\brand-1.jpg">
+                                                                <img src="/wp-content\themes\localpromotion\images\new-pages\brand-1.jpg">
                                                                 
                                                         </li>
                                                 </ul>
-                                                <div class="new-copyright">
-                                                        <a href="..\politika-konfidentsialnosti\index.htm"><span>Политика конфиденциальности</span></a>
-                                                        <p>
-                                                                © 2020 LOCALPROMOTION
-                                                        </p>
+                                                <div class="social-footer">
+                                                        <ul class="social-list">
+                                                                <li>
+                                                                        <a title="Viber" href="viber://chat?number=+79218986399"><i class="fab fa-viber"></i></a>
+                                                                </li>
+                                                                
+                                                                <li>
+                                                                <a title="WhatsApp" href="whatsapp://send?phone=+79218986399"><i class="fab fa-whatsapp"></i></a>
+                                                                </li>
+
+                                                                <li>
+                                                                <a href="https://tttttt.me/localpromotion"><i class="fab fa-telegram-plane"></i></a>
+                                                                </li>
+                                                        </ul>
+                                                        <a class="email-item" href="mailto:localpromotion@yandex.ru">localpromotion@yandex.ru</a>
                                                 </div>
+                                        </div>
+									    <div class="new-copyright">
+                                              <a href="/privacy-policy"><span>Политика конфиденциальности</span></a>
+                                              <p>© 2020 LOCALPROMOTION</p>
                                         </div>
                                 </div>
                         </div>
                 </footer>
                 
-                <!-- <script>
-                        jQuery("#show-text").on('click', function() {
-                                var seoBlock = jQuery(".seo_text");
-                                jQuery(this).find(".show").text(seoBlock.hasClass("show-seo") ? 'Читать все' : 'Свернуть');
-                        });
-                </script> -->
 <!--                 <noscript>
                         <style>
                                 .lazyload{display:none;}
@@ -116,15 +74,96 @@
                         window.lazySizesConfig = window.lazySizesConfig || {};
                         window.lazySizesConfig.loadMode = 1;
                 </script> -->
-                <script async="" data-noptimize="1" src='http://localhost:8888\wp-content\plugins\autoptimize\classes\external\js\lazysizes.min.js'>
+                <!-- <script async="" data-noptimize="1" src='https://localpromotion.ru/wp-content/plugins/autoptimize/classes/external/js/lazysizes.min.js'>
+                </script> -->
+                <!-- <script type='text/javascript' src='https://code.jquery.com/jquery-3.1.1.min.js?ver=20151215'>
+                </script>
+                <script type='text/javascript' src='https://cdnjs.cloudflare.com/ajax/libs/paper.js/0.12.2/paper-full.min.js?ver=20151215'>
+                </script>
+                <script defer="" src="https://localpromotion.ru/wp-content/themes/localpromotion/assets/js/js-min.js">
+                </script> -->
+<!--                 <script data-noptimize="1">
+                        window.lazySizesConfig = window.lazySizesConfig || {};
+                        window.lazySizesConfig.loadMode = 1;
+                </script> -->
+                <script async="" data-noptimize="1" src='/wp-content/themes/localpromotion/assets/js/lazysizes.min.js?ao_version=2.6.1'></script>
                 </script>
                 <script type='text/javascript' src='https://code.jquery.com/jquery-3.1.1.min.js?ver=20151215'>
                 </script>
-                <!-- <script type='text/javascript' src='https://cdnjs.cloudflare.com/ajax/libs/paper.js/0.12.2/paper-full.min.js?ver=20151215'>
-                </script> -->
-                <script defer="" src="http://localhost:8888/wp-content/themes/localpromotion//assets/js/js-min.js">
+                <script type='text/javascript' src='https://cdnjs.cloudflare.com/ajax/libs/paper.js/0.12.2/paper-full.min.js?ver=20151215'>
                 </script>
+                <script defer="" src="/wp-content/themes/localpromotion/assets/js/autoptimize_75685139833bc3c55aac47042ed86744.js">
+                </script>
+<!-- 				<script>
+					$(document).ready(function() {
+					$('input[type="file"]').change(function(){
+						var value = $("input[type='file']").val();
+						$('.js-value').text(value);
+						});
+					});
+                                </script> -->
+                                
+                <div class="modal-callme" id="callme">
+                        <p>
+                                Заполните форму
+                        </p>
+                        <p>
+                                Перед началом сотрудничества нам нужно с вами связаться для обсуждения
+                                проекта. Укажите контактные данные для связи с вами.
+                        </p>
+                        <div class="modal-callme__form">
+                                <div role="form" class="wpcf7" dir="ltr">
+                                        <div class="screen-reader-response">
+                                </div>
+                                        <?php 
+										if( is_page(106) ){
+	 									echo do_shortcode('[contact-form-7 id="186" title="contact form popup partner"]');
+										}
+										else {
+										echo do_shortcode('[contact-form-7 id="150" title="contact form popup"]');
+										} ?>
+                                </div>
+                        </div>
+                </div>
 
+                <div class="modal-callme" id="services_form">
+                        <p>
+                                Заполните форму
+                        </p>
+                        <p>
+                                Перед началом сотрудничества нам нужно с вами связаться для обсуждения
+                                проекта. Укажите контактные данные для связи с вами.
+                        </p>
+                        <div class="modal-callme__form">
+                                <div role="form" class="wpcf7" dir="ltr">
+                                        <div class="screen-reader-response">
+                                </div>
+                                        <?php 
+										if( is_page(106) ){
+	 									echo do_shortcode('[contact-form-7 id="186" title="contact form popup partner"]');
+										}
+										else {
+										echo do_shortcode('[contact-form-7 id="150" title="contact form popup"]');
+										} ?>
+                                </div>
+                        </div>
+                </div>
+				<script>
+					$('.my').change(function() {
+						let fileCount = $('.label');
+						if ($(this).val() != '') fileCount.text('Выбрано файлов: ' + $(this)[0].files.length);
+						else fileCoint.text('Выберите файлы');
+					});
+				</script>
+				<script>
+					$(document).ready(function() {
+// 						setTimeout(() => ($('.banner-art__text').css('transform', 'scale(0)')), 3000);
+// 						setTimeout(() => ($('.banner-art__inner').css('transform', 'scale(0)')), 3000);
+						setTimeout(() => ($('.banner-art__text').css('transform', 'scale(0)')), 3000);
+						setTimeout(() => ($('.banner-art__blob').css('opacity', '0')), 3000);
+						setTimeout(() => ($('.banner-art__blob').css('transform', 'scale(0)')), 3000);
+					}); 
+				</script>
         </body>
         
 </html>
